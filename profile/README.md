@@ -1,5 +1,5 @@
 # UMC TEAM RF
-
+UMC 4기 팀 알프 Repository입니다.
 <!--
 
 **Here are some ideas to get you started:**

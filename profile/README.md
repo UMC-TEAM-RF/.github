@@ -1,5 +1,5 @@
-# UMC TEAM RF
-UMC 4기 팀 알프 Repository입니다.
+# RF
+글로벌한 대학 생활을 위한 첫 단계, RF
 <!--
 
 **Here are some ideas to get you started:**
